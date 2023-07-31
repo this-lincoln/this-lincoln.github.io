@@ -4,7 +4,7 @@ So, welcome to my personal page. If you have no idea how you got here, it is ok,
 # About me
 Soo, basically, I was born in 1988, so I am from the 80's, don't ever think about taking this from me, lol. My dream job was to be a fireman, but somehow I got into Computer Science and now I am a Data Engineer, what I love. I don't know how to define myself without talking about work, maybe a friend could do a better job on this. 
 
-I love buying stuff and giving gifts. I love hugs and anime, I love eating and cuddling. I am merried and have two dogs and I love small computers, like the [intel nuc ones](https://www.intel.com.br/content/www/br/pt/products/details/nuc.html) , sad they are killing it.
+I love buying stuff and giving gifts. I love hugs and anime, I love eating and cuddling. I am married and have two dogs and I love small computers, like the [intel nuc ones](https://www.intel.com.br/content/www/br/pt/products/details/nuc.html) , sad they are killing it.
 
 I struggle with weight since I was little so I have some hardships with my body, don't be mean, you can mock me about other stuff, it is ok.
 

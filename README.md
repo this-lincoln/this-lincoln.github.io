@@ -14,7 +14,7 @@ Oh, also, I am brazilian
 If you want to, you can follow me in the follow social networks. I dont't post much, but when I do it is nothing big.
 
  - [Instagram](https://www.instagram.com/lnkn_robot/)
- - [Twitter](https://twitter.com/Lincoln11666245)
+ - [Twitter](https://twitter.com/lnkn_robot)
  - [Github](https://github.com/this-lincoln)
  - [Linkedin](https://www.linkedin.com/in/lincolnnascimento/)
 

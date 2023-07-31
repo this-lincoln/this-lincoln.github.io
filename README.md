@@ -27,3 +27,6 @@ Not sure when I am going to start it but in the near future I want to:
 - Climbing
 - Diving
 - Speleology
+
+## Updates
+- 2023-07-31. First day of vaccations. I live in Porto, Portugal and I am doing just fine. ::)

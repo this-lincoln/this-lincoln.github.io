@@ -27,6 +27,16 @@ Not sure when I am going to start it but in the near future I want to:
 - Climbing
 - Diving
 - Speleology
+- College? Maybe. Not sure, it depends on how much it costs.
+
+## What I work with
+- Python, since 2015.
+- Django, since 2015.
+- Flask, since 2020.
+- AWS ( Glue, Lambdas, EMR, API Gateway, SNS, SQS and all that stuff ), since 2020.
+- Data Engineering, since 2020.
+- PySpark and Pandas, since 2020.
+- DBT, Airflow and Airbyte, since 2021.
 
 ## Updates
 - 2023-07-31. First day of vaccations. I live in Porto, Portugal and I am doing just fine. ::)
